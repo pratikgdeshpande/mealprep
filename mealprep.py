@@ -5,10 +5,10 @@ import random
 # ----------------------
 
 veg_protein_list = ["Paneer", "Tofu", "Beans", "Chickpeas", "Tempeh"]
-non_veg_protein_list = ["Chicken", "Fish", "Eggs", "Turkey"]
-dals_list = ["Toor Dal", "Moong Dal", "Masoor Dal", "Chana Dal"]
+non_veg_protein_list = ["Chicken", "Fish", "Eggs"]
+dals_list = ["Toor Dal", "Moong Dal", "Masoor Dal", "Chana Dal", "Misal", "Moth beans", "Chana masala", "Green chana"]
 salads_list = ["Green Salad", "Greek Salad", "Cucumber-Tomato Salad"]
-soups_list = ["Tomato Soup", "Mushroom Soup", "Chicken Clear Soup", "Lentil Soup"]
+soups_list = ["Tomato Soup", "Miso soup", "Chicken Clear Soup", "Fish Soup", "Sundubu-jjigae", "Mix veggie soup", "Manchow soup"]
 vegetables_list = ["Broccoli", "Spinach", "Cauliflower", "Mixed Veggies", "Bell Peppers"]
 fruits_list = ["Apple", "Banana", "Orange", "Watermelon", "Grapes"]
 special_items_list = ["Yogurt", "Raita", "Pickle", "Hummus"]
